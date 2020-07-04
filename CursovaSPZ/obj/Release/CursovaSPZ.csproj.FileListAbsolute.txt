@@ -1,0 +1,4 @@
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Release\CursovaSPZ.Form1.resources
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Release\CursovaSPZ.Properties.Resources.resources
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Release\CursovaSPZ.csproj.GenerateResource.cache
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Release\CursovaSPZ.csproj.CoreCompileInputs.cache

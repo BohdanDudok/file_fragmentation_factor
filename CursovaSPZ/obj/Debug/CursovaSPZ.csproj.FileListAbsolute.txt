@@ -1,0 +1,20 @@
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.exe.config
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.exe
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.pdb
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csprojAssemblyReference.cache
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.Properties.Resources.resources
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csproj.GenerateResource.cache
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csproj.CoreCompileInputs.cache
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.exe
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.pdb
+C:\Users\bodia\source\repos\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.Form1.resources
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.exe.config
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.exe
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\bin\Debug\CursovaSPZ.pdb
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csprojAssemblyReference.cache
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.Form1.resources
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.Properties.Resources.resources
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csproj.GenerateResource.cache
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.csproj.CoreCompileInputs.cache
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.exe
+D:\LP\3 course\2 sem\СПЗ\Курсова\CursovaSPZ\CursovaSPZ\obj\Debug\CursovaSPZ.pdb
